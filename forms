@@ -1,0 +1,8 @@
+final double HIGH_LIM = R1000;
+final double HIGH_Rate = R0.08;
+final double MED_LIM = R500.00;
+final double Med_Rate = R0.06;
+final double Low_Rate = R0.05;
+
+if(SaleAmount) => High_Lim)
+comissionRate=LowRate;
